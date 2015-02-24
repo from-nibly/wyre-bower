@@ -1,0 +1,25 @@
+{
+  "name": "wyre",
+  "version": "0.0.1",
+  "homepage": "https://github.com/from-nibly/wyre",
+  "authors": [
+    "from-nibly <thatoneemail@gmail.com>"
+  ],
+  "description": "The new way to do websockets",
+  "main": "wyre.min.js",
+  "moduleType": [
+    "node"
+  ],
+  "keywords": [
+    "websocket"
+  ],
+  "license": "MIT",
+  "private": true,
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
